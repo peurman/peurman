@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there!👋 
+
+My name is <b>Esteban Manrupe</b>, an Electronics Engineer in a full process of reinvention, with an imminent goal: to become a <b>Full Stack Web Developer</b>.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peurman&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peurman&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&custom_title=My%20Stats)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **peurman/peurman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
