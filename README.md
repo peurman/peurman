@@ -1,6 +1,6 @@
 ### Hi there!👋 
 
-My name is <b>Esteban Manrupe</b>, an Electronics Engineer in a full process of reinvention, with an imminent goal: to become a <b>Full Stack Web Developer</b>.
+My name is <b>Esteban Manrupe</b>, an Electronics Engineer in a full process of reskilling, with an imminent goal: to become a <b>Full Stack Web Developer</b>.
 <br>
 
 🛠️ Languages and Tools:
