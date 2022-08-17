@@ -1,7 +1,11 @@
 ### Hi there!👋 
 
-My name is <b>Esteban Manrupe</b>, an Electronics Engineer in a full process of reskilling, with an imminent goal: to become a <b>Full Stack Web Developer</b>.
-<br>
+My name is <b>Esteban Manrupe</b>, an Electronic Engineer in process of reskilling, taking my first steps as a <b>Full Stack Web Developer</b>.
+<br><br>
+I've already done an individual project about <b>Countries</b> and a group project called '<b>Bookstore</b>' (you can see the repositories pinned bellow), both for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp.
+<br><br>
+Of course I'll cotinue making projects, and I'll be updating the information here!
+<br><br>
 
 🛠️ Languages and Tools:
 
