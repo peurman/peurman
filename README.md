@@ -2,6 +2,8 @@
 
 My name is **`Esteban Manrupe`**, a reskilled **electronic engineer** now working as a **`Full Stack Web Developer`**.
 <br><br>
+🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
+<br><br>
 I've already done an individual project about **`Countries`** and an **eight-member team** project called **`Bookstore`** (you can see the repositories pinned bellow), both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code.  
 <br>
 Of course I'll cotinue **making projects**, and I'll be updating the information here!
@@ -33,8 +35,6 @@ Of course I'll cotinue **making projects**, and I'll be updating the information
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peurman&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peurman&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 
 📫 Contact me:
 <br>
