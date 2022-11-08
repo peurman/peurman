@@ -1,15 +1,19 @@
 ### Hi there!👋 
 
-My name is **`Esteban Manrupe`**, a reskilled **electronic engineer** now working as a **`Full Stack Web Developer`**.
+My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now working as a **`FrontEnd Developer`**.
 <br><br>
 🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 <br><br>
-I've already done an individual project about **`Countries`** and an **eight-member team** project called **`Bookstore`** (you can see the repositories pinned bellow), both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code.  
+I've done a full-stack individual project about **`Countries`** and an **eight-member team** project called **`Bookstore`** (you can see the repositories pinned bellow), both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code.  
 <br>
-I am currently working on a project with **`Typescript`** and **`React Native`**.
+And I've already finished a little and simple front-end project, just to practice some **CSS animations** and the use of **`SASS`** with their main features (variables, nesting, mixins, inheritance). It is about a party invitation: https://party-invitation-peurman.vercel.app/
+(repository is also pinned bellow)
 <br>
 <br>
-Of course I'll cotinue **making projects**, and I'll be updating the information here!
+I am currently learning **`Typescript`** and **`Angular`**, starting a Trainee Program in a couple of weeks, with a clear goal: to become an **Angular developer**!
+<br>
+<br>
+Of course I'll continue **making projects**, and I'll be updating the information here!
 <br>
 
 🛠️ Languages and Tools:
