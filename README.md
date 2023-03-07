@@ -4,7 +4,7 @@ My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now workin
 <br><br>
 🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 <br><br>
-I've done a full-stack individual project about **`Countries`** and an **eight-member team** project called **`Bookstore`** (you can see the repositories pinned bellow), both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code.  
+I've done a full-stack individual project about **Countries** and an **eight-member team** project called **Bookstore** (you can see the repositories pinned bellow), both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code, using **`React`**.  
 <br>
 I've already finished a 3-month **`Angular Trainee Program`** at **Applaudo** company, using **`Typescript`** and **`Angular`** for weekly projects (most of them in Gitlab), now starting a new position as Angular developer in that company.
 <br><br>
