@@ -7,8 +7,9 @@ My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now workin
 I've done a full-stack individual project about **`Countries`** and an **eight-member team** project called **`Bookstore`** (you can see the repositories pinned bellow), both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code.  
 <br>
 I've already finished a 3-month **`Angular Trainee Program`** at **Applaudo** company, using **`Typescript`** and **`Angular`** for weekly projects (most of them in Gitlab), now starting a new position as Angular developer in that company.
-<br>
-<br>
+<br><br>
+I added the **2003 Final Project** to graduate as **`Elecrtonic Engineer`**, built wwith both **C++** and **Visual C**.
+<br><br>
 
 🛠️ Languages and Tools:
 
@@ -33,11 +34,11 @@ I've already finished a 3-month **`Angular Trainee Program`** at **Applaudo** co
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <br>
 
-⚡ My stats: 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=peurman&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peurman&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+⚡ My stats:
+<br><br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=peurman&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peurman&langs_count=8&layout=compact&theme=dracula)
 
 📫 Contact me:
 <br>
