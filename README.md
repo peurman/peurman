@@ -9,7 +9,7 @@ I've done a full-stack individual project about **`Countries`** and an **eight-m
 I've already finished a 3-month **`Angular Trainee Program`** at **Applaudo** company, using **`Typescript`** and **`Angular`** for weekly projects (most of them in Gitlab), now starting a new position as Angular developer in that company.
 <br><br>
 I added the **2003 Final Project** to graduate as **`Elecrtonic Engineer`**, built with both **C++** and **Visual C**.
-<br><br>
+<br>
 
 🛠️ Languages and Tools:
 
@@ -34,7 +34,6 @@ I added the **2003 Final Project** to graduate as **`Elecrtonic Engineer`**, bui
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-<br>
 
 ⚡ My stats:
 <br><br>
