@@ -36,9 +36,10 @@ I added the **2003 Final Project** to graduate as **`Elecrtonic Engineer`**, bui
 
 ⚡ My stats:
 <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=peurman&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peurman&langs_count=8&layout=compact&theme=dracula)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=peurman&hide=issues&count_private=true&show_icons=true&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peurman&langs_count=8&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 📫 Contact me:
 <br>
