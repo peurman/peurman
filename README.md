@@ -8,7 +8,7 @@ I've done a full-stack individual project about **`Countries`** and an **eight-m
 <br>
 I've already finished a 3-month **`Angular Trainee Program`** at **Applaudo** company, using **`Typescript`** and **`Angular`** for weekly projects (most of them in Gitlab), now starting a new position as Angular developer in that company.
 <br><br>
-I added the **2003 Final Project** to graduate as **`Elecrtonic Engineer`**, built wwith both **C++** and **Visual C**.
+I added the **2003 Final Project** to graduate as **`Elecrtonic Engineer`**, built with both **C++** and **Visual C**.
 <br><br>
 
 🛠️ Languages and Tools:
