@@ -13,6 +13,7 @@ I added the **2003 Final Project** to graduate as **`Elecrtonic Engineer`**, bui
 
 🛠️ Languages and Tools:
 
+* *Front:*<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -21,12 +22,13 @@ I added the **2003 Final Project** to graduate as **`Elecrtonic Engineer`**, bui
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-gray?style=flat-square&logo=Redux)
+* *Back:*<br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=expressjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=flat-square&logo=postgresql)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-gray?style=flat-square&logo=sequelize)
-
+* *Tools:*<br>
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
