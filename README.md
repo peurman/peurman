@@ -4,10 +4,10 @@ My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now workin
 <br><br>
 🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 <br><br>
-I've done a full-stack individual project about **Countries** and an **eight-member team** project called **Bookstore** (you can see the repositories pinned bellow), both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code, using **`React`**.  
-<br>
-I've already finished a 3-month **`Angular Trainee Program`** at **Applaudo** company, using **`Typescript`** and **`Angular`** for weekly projects (most of them in Gitlab), now starting a new position as Angular developer in that company.
+I've been working as an **`Angular Developer`** at **Applaudo** company, using **`Typescript`** and **`Angular`** , supported by tools as **Confluence**, **Jira**, **Bitbucket**, **GitLab**.
 <br><br>
+I also worked with **`React`**, building different apps, among them  **Countries** and **Bookstore** (an eight-member team). as you can see the repositories pinned bellow, both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code.  
+<br>
 I added the **2003 Final Project** to graduate as **`Electronic Engineer`**, built with both **C++** and **Visual C**.
 <br>
 
@@ -33,6 +33,10 @@ I added the **2003 Final Project** to graduate as **`Electronic Engineer`**, bui
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-181717?style=flat&logo=bitbucket)
+![Jira](https://img.shields.io/badge/-Jira-181717?style=flat&logo=jira)
+![Confluence](https://img.shields.io/badge/-Confluence-181717?style=flat&logo=confluence)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ⚡ My stats:
