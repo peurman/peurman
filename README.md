@@ -65,7 +65,7 @@ I added the **2003 Final Project** to graduate as **`Electronic Engineer`**, bui
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/peurman) -->
 <p align="center" width=fit-content >
 <!--   <img alt="HitCount" src="http://hits.dwyl.com/peurman/peurman.svg" /> -->
-  <img alt="visitors"   src="https://visitor-badge.glitch.me/badge?page_id=peurman.peurman" />
+  <img alt="visitors"   src="https://visitor-badge.laobi.icu/badge?page_id=peurman.peurman" />
   <img alt="ViewCount"  src="https://views.whatilearened.today/views/github/peurman/peurman.svg" />
 </p>
 <!--
