@@ -1,14 +1,18 @@
 ### Hi there!👋 
 
-My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now working as a **`Angular FrontEnd Developer`**.
+My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now working as a **`FrontEnd UI Developer`** for **Training Layers** company.
 <br><br>
 🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 <br><br>
-I've been working as an **`Angular Developer`** at **Applaudo** company, using **`Typescript`** and **`Angular`** , supported by tools as **Confluence**, **Jira**, **Bitbucket**, **GitLab**.
+Before that, I was working as a **`Software Engineer`** at **Aconcagua Software**, working mainly in frontend with **`React`** and also with **`Vue`**.
 <br><br>
-I also worked with **`React`**, building different apps, among them  **Countries** and **Bookstore** (an eight-member team). as you can see the repositories pinned bellow, both made for the <a href="https://www.soyhenry.com/">Henry</a>'s bootcamp, with more than 800 hours of code.  
+At the same time, I worked as a **`Freelance React Developer`** at **Voxologic**, in a project that included **`React`**, **`Redux`**, **`AWS`**, **`Socket IO`**, among others tools.
+<br><br>
+Before that jobs, I worked as an **`Angular FrontEnd Developer`** at **Applaudo**, using **`Typescript`** and **`Angular`** , supported by tools as **Confluence**, **Jira**, **Bitbucket**, **GitLab**.
+<br><br>
+As you can see in the repositories pinned bellow, I built projects with **`React`** and **`Angular`**.
 <br>
-I added the **2003 Final Project** to graduate as **`Electronic Engineer`**, built with both **C++** and **Visual C**.
+I also added the **2003 Final Project** to graduate as **`Electronic Engineer`**, built with both **C++** and **Visual C**.
 <br>
 
 🛠️ Languages and Tools:
@@ -21,6 +25,7 @@ I added the **2003 Final Project** to graduate as **`Electronic Engineer`**, bui
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue)
 ![Redux](https://img.shields.io/badge/-Redux-gray?style=flat-square&logo=Redux)
 * *Back:*<br>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
@@ -34,6 +39,7 @@ I added the **2003 Final Project** to graduate as **`Electronic Engineer`**, bui
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab)
+![CodeCommit](https://img.shields.io/badge/-CodeCommit-181717?style=flat&logo=codecommit)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-181717?style=flat&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-181717?style=flat&logo=jira)
 ![Confluence](https://img.shields.io/badge/-Confluence-181717?style=flat&logo=confluence)
