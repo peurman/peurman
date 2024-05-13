@@ -1,6 +1,6 @@
 ### Hi there!👋 
 
-My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now working as a **`FrontEnd UI Developer`** for **Training Layers** company.
+My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now working as a **`FrontEnd UI Developer`** for **Adopt IQ** company.
 <br><br>
 🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 <br><br>
@@ -23,6 +23,7 @@ I also added the **2003 Final Project** to graduate as **`Electronic Engineer`**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/-Tailwind-1572B6?style=flat&logo=tailwind)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat&logo=vue)
