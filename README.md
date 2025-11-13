@@ -1,18 +1,27 @@
 ### Hi there!👋 
 
-My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now working as a **`FrontEnd UI Developer`** for **Adopt IQ** company.
+My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now working as a **`FrontEnd React Developer`** at **The Tapping Solution**.
+
+I'm currently building a **brand-new web application** that complements the company’s mobile app. I work with **React**, **TypeScript**, **Tailwind CSS**, and **Material UI**, focusing strongly on **responsiveness**, **accessibility**, and **code quality**. I implement **unit tests with Jest**, ensure performance across devices, and collaborate with designers and backend engineers. I also leverage **AI-powered tools** to enhance development efficiency.
 <br><br>
 🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 <br><br>
-Before that, I was working as a **`Software Engineer`** at **Aconcagua Software**, working mainly in frontend with **`React`** and also with **`Vue`**.
+
+Previously, I worked as a **`FrontEnd UI Developer`** at **Adopt IQ**, where I translated UI/UX designs into responsive HTML/CSS templates, ensured accessibility compliance (WCAG, Section 508), and built scalable interfaces using **Tailwind CSS**. I collaborated closely with designers and full-stack developers, maintained cross-browser compatibility, and followed modern front-end best practices.
 <br><br>
-At the same time, I worked as a **`Freelance React Developer`** at **Voxologic**, in a project that included **`React`**, **`Redux`**, **`AWS`**, **`Socket IO`**, among others tools.
+
+Before that, I was a **`Software Engineer`** at **Aconcagua Software**, working mainly with **React** and **Vue**.
 <br><br>
-Before that jobs, I worked as an **`Angular FrontEnd Developer`** at **Applaudo**, using **`Typescript`** and **`Angular`** , supported by tools as **Confluence**, **Jira**, **Bitbucket**, **GitLab**.
+
+In parallel, I also collaborated as a **`Freelance React Developer`** at **Voxologic**, in a project involving **React**, **Redux**, **AWS**, **Socket.IO**, among other tools.
 <br><br>
-As you can see in the repositories pinned bellow, I built projects with **`React`** and **`Angular`**.
-<br>
-I also added the **2003 Final Project** to graduate as **`Electronic Engineer`**, built with both **C++** and **Visual C**.
+
+Earlier in my career, I worked as an **`Angular FrontEnd Developer`** at **Applaudo**, using **TypeScript** and **Angular**, supported by tools such as **Confluence**, **Jira**, **Bitbucket**, and **GitLab**.
+<br><br>
+
+As you can see in the repositories pinned below, I built projects with **React** and **Angular**.
+<br><br>
+I also added the **2003 Final Project** to graduate as an **Electronic Engineer**, built with **C++** and **Visual C**.
 <br>
 
 🛠️ Languages and Tools:
