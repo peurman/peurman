@@ -7,7 +7,7 @@ I'm currently building a **brand-new web application** that complements the comp
 🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 <br><br>
 
-Previously, I worked as a **`FrontEnd UI Developer`** at **Adopt IQ**, where I translated UI/UX designs into responsive HTML/CSS templates, ensured accessibility compliance (WCAG, Section 508), and built scalable interfaces using **Tailwind CSS**. I collaborated closely with designers and full-stack developers, maintained cross-browser compatibility, and followed modern front-end best practices.
+Previously, I worked as a **`FrontEnd UI Developer`** at **Adopt IQ**, where I translated UI/UX designs into a responsive **React** project, ensured accessibility compliance, and built scalable interfaces using **Tailwind CSS**. I collaborated closely with designers and full-stack developers, maintained cross-browser compatibility, and followed modern front-end best practices.
 <br><br>
 
 Before that, I was a **`Software Engineer`** at **Aconcagua Software**, working mainly with **React** and **Vue**.
