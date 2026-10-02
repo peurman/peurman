@@ -4,8 +4,19 @@ My name is **`ESTEBAN MANRUPE`**, a reskilled **electronic engineer** now workin
 
 I'm currently building a **brand-new web application** that complements the company’s mobile app. I work with **React**, **TypeScript**, **Tailwind CSS**, and **Material UI**, focusing strongly on **responsiveness**, **accessibility**, and **code quality**. I implement **unit tests with Jest**, ensure performance across devices, and collaborate with designers and backend engineers. I also leverage **AI-powered tools** to enhance development efficiency.
 <br><br>
+
 🧰 My <b>PORTFOLIO</b>: https://portfolio-esteban-manrupe.vercel.app/
 <br><br>
+📱 My latest project: <b>¿Cómo vamos?</b>
+<br><br>
+<a href="https://peurman.github.io/comovamos/">
+  <img src="https://raw.githubusercontent.com/peurman/comovamos/main/icon.png" alt="¿Cómo vamos? app icon" width="72" align="left" />
+</a>
+
+A free score-keeping app for card and dice games popular in Argentina — **Truco, Generala, Tute, Burako, Carioca** and more. Built with **React Native** (Expo), no ads, no sign-up, fully offline. Live on **Google Play** and the **App Store**.
+
+👉 https://peurman.github.io/comovamos/
+<br clear="left"><br>
 
 Previously, I worked as a **`FrontEnd UI Developer`** at **Adopt IQ**, where I translated UI/UX designs into a responsive **React** project, ensured accessibility compliance, and built scalable interfaces using **Tailwind CSS**. I collaborated closely with designers and full-stack developers, maintained cross-browser compatibility, and followed modern front-end best practices.
 <br><br>
