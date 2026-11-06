@@ -68,9 +68,10 @@ I also added the **2003 Final Project** to graduate as an **Electronic Engineer*
 ![Jira](https://img.shields.io/badge/-Jira-181717?style=flat&logo=jira)
 ![Confluence](https://img.shields.io/badge/-Confluence-181717?style=flat&logo=confluence)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+<br><br>
 
 ⚡ My stats:
-<br><br>
+<br>
 <p align="center">
   <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="48%" />
   <img src="./profile-summary-card-output/dracula/3-stats.svg" width="48%" />
