@@ -71,9 +71,10 @@ I also added the **2003 Final Project** to graduate as an **Electronic Engineer*
 
 ⚡ My stats:
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peurman&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=peurman&count_private=true&show_icons=true&hide_title=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<p align="center">
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="48%" />
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" width="48%" />
+</p>
 
 📫 Contact me:
 <br>
